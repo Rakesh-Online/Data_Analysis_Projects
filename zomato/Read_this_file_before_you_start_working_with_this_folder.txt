@@ -1,0 +1,2 @@
+In this there is a saperate folder for the dataset related to zomato which consists of the .js are converted to csv file and for the practice purpose i have
+copied the .csv to the ipynb path all this is given in the GitHub of some random person 
